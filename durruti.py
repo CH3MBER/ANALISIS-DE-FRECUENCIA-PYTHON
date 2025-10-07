@@ -100,4 +100,4 @@ if __name__ == "__main__":
     print("\n\n--- Texto Descifrado (Propuesta por Proximidad) ---")
     print(resultado_descifrado)
     print("---------------------------------------------------")
-    print("\nEste método reduce errores, pero los textos cortos aún pueden requerir ajustes.")
+    print("\nEste método reduce errores, pero los textos cortos aún pueden requerir ajustes, usando por ejemplo, browserling replace text, y piliapp texto en negrita")
